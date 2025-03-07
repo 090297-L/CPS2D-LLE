@@ -23,7 +23,7 @@ The CPSLLE dataset originates from ceramic package substrate samples gathered in
 </div>
 
 ## Data Link
-The dataset is uploaded into Google Drive, and the source train and val set data can be download in [Google drive](https://drive.google.com/file/d/1fulLTcfHK7eb9ldH-M_pkF55djsDVT4Q/view?usp=drive_link).
+The dataset is uploaded into Google Drive, and the source train and val set data can be download in [Google drive](https://drive.google.com/file/d/1x5JHAQ5zSb8jkneFNg0AXJuy657q_VgB/view?usp=drive_link).
 
 
 ## AOI System and Dataset
@@ -54,7 +54,7 @@ Display video of AOI can be download in [Google drive](https://drive.google.com/
 
 All comparison algorithms can be found in the folders
 
-### [CPSLLE Dataset](https://drive.google.com/file/d/1fulLTcfHK7eb9ldH-M_pkF55djsDVT4Q/view?usp=drive_link)
+### [CPSLLE Dataset](https://drive.google.com/file/d/1x5JHAQ5zSb8jkneFNg0AXJuy657q_VgB/view?usp=drive_link)
 
 <div align=center>
 
