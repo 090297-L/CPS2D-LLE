@@ -68,9 +68,9 @@ All comparison algorithms can be found in the folders
 
 <div align=center>
 
-<img src="https://github.com/090297-L/CPSLLE/blob/main/Images/9.png" width="1200px">
+<img src="https://github.com/090297-L/CPSLLE/blob/main/Images/9.png" width="800px">
 
-<img src="https://github.com/090297-L/CPSLLE/blob/main/Images/11.png" width="1200px">
+<img src="https://github.com/090297-L/CPSLLE/blob/main/Images/11.png" width="800px">
 
 <img src="https://github.com/090297-L/CPSLLE/blob/main/Images/10.png" width="1200px">
 
