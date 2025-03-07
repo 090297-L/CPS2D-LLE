@@ -8,7 +8,17 @@ The CPSLLE dataset originates from ceramic package substrate samples gathered in
 
 <div align=center>
   
-<img src="https://github.com/090297-L/FRPNet-and-CPSFSC/blob/main/images/Distribution%20in%20CPSFS-CLS.png" width="800px"> <img src="https://github.com/090297-L/FRPNet-and-CPSFSC/blob/main/images/Proportion%20in%20CPSFS-CLS.png" width="800px">
+<img src="https://github.com/090297-L/CPSLLE/blob/main/Images/3.png" width="1500px"> 
+
+<img src="https://github.com/090297-L/CPSLLE/blob/main/Images/5.png" width="1500px">
+
+</div>
+
+## Comparison between different low-light datasets
+
+<div align=center>
+  
+<img src="https://github.com/090297-L/CPSLLE/blob/main/Images/4.png" width="1500px"> 
 
 </div>
 
@@ -22,7 +32,7 @@ We developed an AOI equipment, as shown in Fig. 2 of our paper, focusing on low-
 
 <div align=center>
 
-<img src="https://github.com/090297-L/FRPNet-and-CPSFSC/blob/main/images/FRPNet.png" width="1500px">
+<img src="https://github.com/090297-L/CPSLLE/blob/main/Images/1.png" width="800px"> <img src="https://github.com/090297-L/CPSLLE/blob/main/Images/2.png" width="800px">
 
 </div>
 
@@ -32,7 +42,7 @@ To further validate the contribution of CPSLLE in integrated circuit research, w
 
 <div align=center>
   
-<img src="https://github.com/090297-L/FRPNet-and-CPSFSC/blob/main/images/CPS%20data%20acquisition%20and%20detection%20system.png" width="1500px">
+<img src="https://github.com/090297-L/CPSLLE/blob/main/Images/6.png" width="1500px">
 
 </div>
 
@@ -42,21 +52,15 @@ Display video of AOI can be download in [Google drive](https://drive.google.com/
 
 ## Experiments results
 
-All comparison algorithms can be found in 
-
-* [LibFewShot](https://github.com/rl-vig/libfewshot)
-* [GTNet](https://github.com/VDT-2048/FSC-20)
-* [FaNet](https://github.com/successhaha/GTnet)
-* [Bi-FRN](https://github.com/PRIS-CV/Bi-FRN)
-* [ESPT](https://github.com/Whut-YiRong/ESPT)
-* [CPEA](https://github.com/FushengHao/CPEA)
-* [AMMD](https://github.com/WuJi1/AMMD)
+All comparison algorithms can be found in the folders
 
 ### [CPSLLE Dataset](https://drive.google.com/file/d/1fulLTcfHK7eb9ldH-M_pkF55djsDVT4Q/view?usp=drive_link)
 
 <div align=center>
 
-<img src="https://github.com/090297-L/FRPNet-and-CPSFSC/blob/main/images/Comparison%20With%20SOTA%20Algorithms%20in%20CPSFSC.png" width="800px"> <img src="https://github.com/090297-L/FRPNet-and-CPSFSC/blob/main/images/cps_keshihua.png" width="800px">
+<img src="https://github.com/090297-L/CPSLLE/blob/main/Images/7.png" width="1500px">
+
+<img src="https://github.com/090297-L/CPSLLE/blob/main/Images/8.png" width="1500px">
 
 </div>
 
@@ -64,7 +68,11 @@ All comparison algorithms can be found in
 
 <div align=center>
 
-<img src="https://github.com/090297-L/FRPNet-and-CPSFSC/blob/main/images/Heat-map.png" width="1200px">
+<img src="https://github.com/090297-L/CPSLLE/blob/main/Images/9.png" width="1200px">
+
+<img src="https://github.com/090297-L/CPSLLE/blob/main/Images/11.png" width="1200px">
+
+<img src="https://github.com/090297-L/CPSLLE/blob/main/Images/10.png" width="1200px">
 
 </div>
 
