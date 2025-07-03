@@ -1,6 +1,6 @@
 # CPSLLE
 
-CPSLLE: A Large-scale Low-light Enhancement Dataset for Darkroom Defect Detection in Integrated Circuit Packaging Substrates
+Low-light Enhancement of Integrated Circuit Packaging Substrates Using Light-MMamba: Dataset Construction and Methodology
 
 ## CPSLLE Description
 
