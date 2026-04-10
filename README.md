@@ -1,6 +1,6 @@
 # CPSLLE
 
-Low-light Enhancement of Integrated Circuit Packaging Substrates Using Light-MMamba: Dataset Construction and Methodology
+Low-light Enhancement of Integrated Circuit Packaging Substrates: Dataset Construction and Methodology
 
 ## CPSLLE Description
 
